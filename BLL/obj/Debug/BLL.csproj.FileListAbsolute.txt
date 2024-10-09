@@ -1,0 +1,6 @@
+C:\Users\Lenovo\OneDrive\Escritorio\PRACTICAS\GOOGLEMAPS\BLL\bin\Debug\BLL.dll
+C:\Users\Lenovo\OneDrive\Escritorio\PRACTICAS\GOOGLEMAPS\BLL\bin\Debug\BLL.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\PRACTICAS\GOOGLEMAPS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\PRACTICAS\GOOGLEMAPS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\PRACTICAS\GOOGLEMAPS\BLL\obj\Debug\BLL.dll
+C:\Users\Lenovo\OneDrive\Escritorio\PRACTICAS\GOOGLEMAPS\BLL\obj\Debug\BLL.pdb
